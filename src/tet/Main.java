@@ -6,6 +6,5 @@ public class Main {
 	public static void main(String[] vc){
 		//even better
 		System.err.println("hau ma ab");
-		
 	}
 }
